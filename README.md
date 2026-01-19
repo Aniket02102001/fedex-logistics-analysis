@@ -1,18 +1,26 @@
-# 🌐 Hi, I'm Aniket Sahu.
+# Data Analysis Project (Google Colab)
 
-### 🐍 Python Web Developer | Backend Enthusiast  
+## 📌 Project Overview
+This project performs data analysis and visualization using Python in Google Colab.
 
----
+## 🛠 Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-## 🚀 About Me  
-- 🖥️ Passionate about building scalable web applications.  
-- 🌱 Currently learning advanced Flask, Django, and REST API integrations.  
-- 💻 Love exploring new tools and technologies in web development.  
-- 🔍 Focused on writing clean, efficient, and maintainable code.  
+## 📂 Dataset
+The dataset is loaded directly from Google Drive using a file ID.
 
----
+## ▶ How to Run
+1. Open the notebook in Google Colab
+2. Run all cells from top to bottom
 
-## 🛠️ Skills  
+## 📈 Output
+- Cleaned dataset
+- Visualizations
+- Insights from exploratory data analysis
 
-### Programming Languages:  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-b
+## 👤 Author
+Aniket Sahu
