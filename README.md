@@ -1,5 +1,5 @@
 # 📦 FedEx Global Medical Supply Chain Analysis
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aniket02102001/fedex-logistics-analysis/blob/main/Aniket_EDA_Submission.ipynb)
 
 ## 📊 Project Overview
 
